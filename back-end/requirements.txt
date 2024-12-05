@@ -1,0 +1,10 @@
+fastapi[all]
+sqlalchemy
+sqlmodel
+email-validator
+asyncpg
+six
+requests
+numpy
+websockets
+PyJWT
